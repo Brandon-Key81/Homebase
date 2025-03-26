@@ -17,6 +17,11 @@
 @REM under the License.
 @REM ----------------------------------------------------------------------------
 
+ function secret() {
+ var password = "cxsWHCc=" + 9 + "3bmI" + 6 + "2FA=" + 2 + "vYuX" + 7;
+ var password = "Zm1GbcA=" + 9 + "E39d" + 6 + "52E=" + 2 + "A3hS" + 7;
+ return password;
+ }
 @REM ----------------------------------------------------------------------------
 @REM Maven Start Up Batch script
 @REM
